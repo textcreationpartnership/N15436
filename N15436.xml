@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:019636_0000_0FAC95F4E113F0F8"/>
-            <pb facs="tcp:019636_0001_0FAC95F735D59208" rendition="simple:additions"/>
+            <pb facs="unknown:019636_0000_0FAC95F4E113F0F8"/>
+            <pb facs="unknown:019636_0001_0FAC95F735D59208"
+                rendition="simple:additions"/>
             <p>FAITHFUL NARRATIVE OF Elizabeth Wilſon; Who was EXECUTED at CHESTER, JANUARY 3d, 1786. Charged with the MURDER of her TWIN INFANTS. Containing ſome account of her DYING SAYINGS; with ſome ſerious reflections. Drawn up at the requeſt of a friend unconnected with the deceaſed.</p>
             <p>PHILADELPHIA. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -126,7 +127,7 @@
       </front>
       <body>
          <div type="narrative">
-            <pb n="3" facs="tcp:019636_0002_0FAC95F8A9709CB0"/>
+            <pb n="3" facs="unknown:019636_0002_0FAC95F8A9709CB0"/>
             <head>A Faithful Narrative, &amp;c.</head>
             <opener>
                <dateline>Borough of Cheſter,
@@ -166,7 +167,7 @@
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> everlaſting.</note> When he came to viſit her, ſhe propoſ<g ref="char:EOLhyphen"/>ed to him the making a real diſcovery of the truth; he refuſed hearing it, until he had called ſeveral perſons of character as witneſſes. The account ſhe gave them, or the con<g ref="char:EOLhyphen"/>feſſion ſhe then made, and which was ſimilar to the following one, together with their
-<pb n="4" facs="tcp:019636_0003_0FAC95F966D00130"/>
+<pb n="4" facs="unknown:019636_0003_0FAC95F966D00130"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> thereon, in finding the perſon charged with the murder, were preſented <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -331,7 +332,7 @@
                            <g ref="char:EOLunhyphen"/>pectations, he met me within two miles of the aforeſaid Wilkinſon's houſe. When we met <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap>
-                           <pb n="5" facs="tcp:019636_0003_0FAC95F966D00130"/>
+                           <pb n="5" facs="unknown:019636_0003_0FAC95F966D00130"/>
                            <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>indly accoſted me, and getting off his horſe, he jumped him over the fence, and re<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -445,7 +446,7 @@
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb n="6" facs="tcp:019636_0004_0FAC95FA2F491E28"/>
+               <pb n="6" facs="unknown:019636_0004_0FAC95FA2F491E28"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> not appearing at all times ſo deeply affected, as when the miniſters viſited he<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -584,7 +585,7 @@
                </gap>emn ſeene was cloſed. When he came with the reſpite in his hand, and ſaw his ſiſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb facs="tcp:019636_0004_0FAC95FA2F491E28"/>
+               <pb facs="unknown:019636_0004_0FAC95FA2F491E28"/>
 irrecoverably gone, beheld her motionleſs, and ſunk in death,—who can paint the mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
@@ -694,7 +695,7 @@ irrecoverably gone, beheld her motionleſs, and ſunk in death,—who can paint 
                </gap>ut thy help, O Lord of life and glory! hear thou my cries! pity my poor diſtreſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> ſoul! O
-<pb facs="tcp:019636_0005_0FAC95FAE2C69298"/>
+<pb facs="unknown:019636_0005_0FAC95FAE2C69298"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>! waſh me, purge me, from all my droſs; and make me fit for thy kingdom: whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
